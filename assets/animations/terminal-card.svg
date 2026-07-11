@@ -1,0 +1,24 @@
+<svg width="1000" height="250" viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="250">
+      <stop stop-color="#0A66C2"/>
+      <stop offset=".5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="984" height="234" rx="12" fill="#090d12" stroke="url(#border)" stroke-width="2"/>
+  <rect x="8" y="8" width="984" height="42" rx="12" fill="#111827"/>
+  <circle cx="34" cy="29" r="6" fill="#ff5f57"/>
+  <circle cx="56" cy="29" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="29" r="6" fill="#28c840"/>
+  <text x="500" y="34" text-anchor="middle" fill="#94a3b8" font-family="Fira Code, Consolas, monospace" font-size="14">josepaulo@dev: ~/workspace</text>
+  <text x="38" y="88" fill="#0A66C2" font-family="Fira Code, Consolas, monospace" font-size="20">$ build --focus web automation linux</text>
+  <text x="38" y="124" fill="#e5e7eb" font-family="Fira Code, Consolas, monospace" font-size="18">Criando interfaces rapidas, automacoes uteis e ambientes estaveis</text>
+  <text x="38" y="160" fill="#22c55e" font-family="Fira Code, Consolas, monospace" font-size="18">status: pronto para transformar ideias em projetos reais</text>
+  <rect x="38" y="190" width="15" height="24" fill="#0A66C2">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M900 86 L930 112 L900 138" stroke="#0A66C2" stroke-width="4" fill="none">
+    <animateTransform attributeName="transform" type="translate" values="0 0;10 0;0 0" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+</svg>

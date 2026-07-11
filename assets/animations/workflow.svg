@@ -1,0 +1,17 @@
+<svg width="1000" height="210" viewBox="0 0 1000 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="210" rx="14" fill="#080c11"/>
+  <path d="M130 105 H870" stroke="#1f2937" stroke-width="6" stroke-linecap="round"/>
+  <path d="M130 105 H870" stroke="#0A66C2" stroke-width="6" stroke-linecap="round" stroke-dasharray="60 680">
+    <animate attributeName="stroke-dashoffset" values="740;0" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Fira Code, Consolas, monospace" font-size="15" text-anchor="middle">
+    <g><circle cx="130" cy="105" r="34" fill="#111827" stroke="#0A66C2" stroke-width="2"/><text x="130" y="110" fill="#fff">Ideia</text></g>
+    <g><circle cx="315" cy="105" r="34" fill="#111827" stroke="#0A66C2" stroke-width="2"/><text x="315" y="110" fill="#fff">Codigo</text></g>
+    <g><circle cx="500" cy="105" r="34" fill="#111827" stroke="#0A66C2" stroke-width="2"/><text x="500" y="110" fill="#fff">Teste</text></g>
+    <g><circle cx="685" cy="105" r="34" fill="#111827" stroke="#0A66C2" stroke-width="2"/><text x="685" y="110" fill="#fff">Deploy</text></g>
+    <g><circle cx="870" cy="105" r="34" fill="#111827" stroke="#0A66C2" stroke-width="2"/><text x="870" y="110" fill="#fff">Evolui</text></g>
+  </g>
+  <circle r="9" fill="#fff">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M130 105 H870"/>
+  </circle>
+</svg>

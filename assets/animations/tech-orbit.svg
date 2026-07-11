@@ -1,0 +1,19 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="300" rx="14" fill="#080c11"/>
+  <circle cx="500" cy="150" r="94" fill="#0A66C2" opacity=".08"/>
+  <circle cx="500" cy="150" r="68" fill="#0A66C2" opacity=".16"/>
+  <circle cx="500" cy="150" r="38" fill="#0A66C2" opacity=".95"/>
+  <text x="500" y="156" text-anchor="middle" fill="#fff" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700">DEV</text>
+  <g transform="translate(500 150)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+      <circle cx="0" cy="-110" r="28" fill="#111827" stroke="#0A66C2"/><text x="0" y="-104" text-anchor="middle" fill="#fff" font-family="Consolas" font-size="13">HTML</text>
+      <circle cx="95" cy="-55" r="28" fill="#111827" stroke="#0A66C2"/><text x="95" y="-49" text-anchor="middle" fill="#fff" font-family="Consolas" font-size="13">CSS</text>
+      <circle cx="95" cy="55" r="28" fill="#111827" stroke="#0A66C2"/><text x="95" y="61" text-anchor="middle" fill="#fff" font-family="Consolas" font-size="13">JS</text>
+      <circle cx="0" cy="110" r="28" fill="#111827" stroke="#0A66C2"/><text x="0" y="116" text-anchor="middle" fill="#fff" font-family="Consolas" font-size="13">PY</text>
+      <circle cx="-95" cy="55" r="28" fill="#111827" stroke="#0A66C2"/><text x="-95" y="61" text-anchor="middle" fill="#fff" font-family="Consolas" font-size="13">PHP</text>
+      <circle cx="-95" cy="-55" r="28" fill="#111827" stroke="#0A66C2"/><text x="-95" y="-49" text-anchor="middle" fill="#fff" font-family="Consolas" font-size="13">LINUX</text>
+    </g>
+  </g>
+  <text x="500" y="265" text-anchor="middle" fill="#94a3b8" font-family="Fira Code, Consolas, monospace" font-size="15">stack em movimento: web, automacao e servidores</text>
+</svg>

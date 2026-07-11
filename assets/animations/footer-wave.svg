@@ -1,0 +1,7 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="150" fill="#050505"/>
+  <path fill="#0A66C2" opacity=".7">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 70 C230 20 360 115 580 72 C760 38 910 100 1200 55 L1200 150 L0 150 Z;M0 58 C220 105 380 25 585 72 C800 122 930 38 1200 82 L1200 150 L0 150 Z;M0 70 C230 20 360 115 580 72 C760 38 910 100 1200 55 L1200 150 L0 150 Z"/>
+  </path>
+  <text x="600" y="112" text-anchor="middle" fill="#fff" font-family="Fira Code, Consolas, monospace" font-size="18">Obrigado pela visita</text>
+</svg>
