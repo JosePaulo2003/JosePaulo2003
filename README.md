@@ -109,18 +109,20 @@ Gosto de criar solucoes diretas, rapidas e faceis de manter, com foco em codigo 
 
 ---
 
-## Projetos em desenvolvimento
+## Projetos em destaque
 
-| Projeto | Descricao | Status |
+Projetos desenvolvidos para controle interno, organizacao de processos, automacao de infraestrutura e apoio operacional.
+
+| Projeto | Descricao | Tecnologias |
 |---|---|---|
-| Landing pages | Templates modernos para negocios e servicos | Em construcao |
-| APIs simples | Back-ends leves usando Python | Em construcao |
-| Automacoes | Scripts para tarefas repetitivas | Em construcao |
-| Ferramentas web | Solucoes pequenas, uteis e faceis de manter | Em construcao |
+| [Gestao de Itens / Almoxarifado](https://github.com/JosePaulo2003/gestao-itens) | Sistema para cadastro de itens, estoque, relatorios, solicitacoes, emprestimos, devolucoes e controle de bloqueios por regras de uso. | PHP, MySQL, HTML, CSS, JavaScript |
+| [Sistema de Portaria CTIC](https://github.com/JosePaulo2003/sistema-portaria-ctic) | Sistema para controle de portaria, reservas de salas, retirada/devolucao de chaves, permissoes, usuarios, logs e advertencias. | PHP, MySQL, MVC, JavaScript |
+| [Sistema Interno CTIC](https://github.com/JosePaulo2003/sistema-interno-ctic) | Painel interno com autenticacao, gestao de usuarios, perfil com avatar e modulo de presenca de estagiarios por turma. | PHP, MySQL, HTML, CSS |
+| [Scripts de Servidor](https://github.com/JosePaulo2003/scripts-servidor) | Scripts para instalacao do Coolify, diagnostico de rede/servidor e criacao de usuarios SSH em ambientes Linux. | Bash, Linux, Docker, SSH |
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2300&pause=900&color=0A66C2&center=true&vCenter=true&width=760&lines=Novos+projetos+chegando...;Templates%2C+APIs%2C+scripts+e+ferramentas+web.;Sempre+evoluindo+um+commit+por+vez." alt="Projetos em desenvolvimento" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2300&pause=900&color=0A66C2&center=true&vCenter=true&width=820&lines=Sistemas+web+para+rotinas+reais.;Controle%2C+automacao+e+organizacao+de+processos.;Projetos+documentados+e+em+evolucao+constante." alt="Projetos em destaque" />
   </a>
 </p>
 
